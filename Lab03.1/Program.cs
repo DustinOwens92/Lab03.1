@@ -7,6 +7,7 @@ namespace Lab03._1
         static void Main(string[] args)
         {
             string userContinue = null;
+            //start Do/While loop
             do
             {
                 // ask user to input number between 1 to 100
